@@ -1,4 +1,4 @@
 # Natjecateljsko-programiranje
-Domaće zadaće s vještine natjecateljsko programiranje
+Domaće zadaće s vještine Natjecateljsko programiranje
 
-U repozitoriju se nalaze neka od rjesenja zadaća s natjecateljskog programiranja, vještine na FER-u.
+U repozitoriju se nalaze neka od rješenja zadaća s Natjecateljskog programiranja, vještine na FER-u.
